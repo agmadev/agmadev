@@ -8,7 +8,7 @@ Execution-focused engineer who delivers enterprise-grade solutions independently
 
 ---
 
-## Projects
+## Ongoing Projects
 
 ### **Distributed Reactive Authentication Backend**  
 A modular Spring Boot microservice system featuring:  
