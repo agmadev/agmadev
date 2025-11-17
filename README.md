@@ -15,7 +15,7 @@ A modular Spring Boot microservice system featuring:
 gateway routing, JWT/OAuth2 security, admin/player role separation, Redis messaging, Dockerized deployment, SQL with Flyway migrations, and mock blockchain wallet verification.  
 **Repo:** https://github.com/agmadev/auth-microservice-architecture
 
-### **Onchain Trader**  
+### **On-chain Trading Application**  
 Automated onchain trading backend built with Spring Boot microservices, Kubernetes orchestration, Redis caching, RabbitMQ/Kafka messaging, and blockchain API integrations for wallet verification and trade execution.  
 **Repo:** https://github.com/agmadev/onchain-trader
 
